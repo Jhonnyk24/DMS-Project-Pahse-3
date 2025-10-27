@@ -24,15 +24,9 @@ The program uses a CSV file (`movies.csv`) with **7 columns**:
 
 title,year,director,rating,runtimeMinutes,votes,watched
 
-markdown
-Copiar código
-
 **Example row:**
 
 Get Out,2017,Jordan Peele,7.0,104,100,true
-
-markdown
-Copiar código
 
 **Field descriptions:**
 
